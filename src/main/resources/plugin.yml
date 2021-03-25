@@ -1,0 +1,9 @@
+name: LightWallHack
+version: ${project.version}
+main: ru.riku.lwh.Main
+authors: [ Riku ]
+softdepend: [ProtocolLib]
+description: the best plugin for WallHack
+commands:
+  lightwallhack:
+    aliases: [lwh, wh, wallhack]
